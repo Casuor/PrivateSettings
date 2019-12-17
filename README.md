@@ -1,2 +1,2 @@
 
-# jsdelivr cdn reouces
+# jsdelivr cdn resouces
