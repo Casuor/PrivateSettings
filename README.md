@@ -1,2 +1,2 @@
-# PrivateSettings
-A guid of using software !
+# PrivateSettings!
+# jsdelivr cdn reouces
